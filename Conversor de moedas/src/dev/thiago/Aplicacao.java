@@ -14,7 +14,7 @@ public class Aplicacao {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
-        String endereco = "https://v6.exchangerate-api.com/v6/80467e0e906b947e4a597874/latest/USD";
+        String endereco = "https://v6.exchangerate-api.com/v6/9acde6c519f125535d785e8a/latest/USD";
         Scanner scan = new Scanner(System.in);
         double valor;
 
